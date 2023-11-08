@@ -1,0 +1,15 @@
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\bin\Debug\net6.0\Organization_console.exe
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\bin\Debug\net6.0\Organization_console.deps.json
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\bin\Debug\net6.0\Organization_console.runtimeconfig.json
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\bin\Debug\net6.0\Organization_console.dll
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\bin\Debug\net6.0\Organization_console.pdb
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.csproj.AssemblyReference.cache
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.AssemblyInfoInputs.cache
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.AssemblyInfo.cs
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.csproj.CoreCompileInputs.cache
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.dll
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\refint\Organization_console.dll
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.pdb
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\Organization_console.genruntimeconfig.cache
+C:\Users\hernadi.balazs\source\repos\Organization_console\Organization_console\obj\Debug\net6.0\ref\Organization_console.dll
